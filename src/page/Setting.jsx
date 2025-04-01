@@ -1,5 +1,5 @@
 import React from 'react'
-import SelectBox from '../components/selectBox'
+import SelectBox from '../components/SelectBox'
 import { Box, Button, CircularProgress, Typography } from '@mui/material'
 import NumbeCom from '../components/NumbeCom'
 import useAxois from '../hook/useAxois'
